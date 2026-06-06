@@ -1,0 +1,15 @@
+[project]
+name = "kaoyan-english-ai-review"
+version = "0.1.0"
+description = "Gemini-powered tools for Kaoyan English writing templates and objective-question review reports."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = [
+  "requests>=2.31.0",
+  "tqdm>=4.66.0",
+  "python-dotenv>=1.0.0",
+]
+
+[tool.ruff]
+line-length = 100
