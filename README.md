@@ -1,4 +1,4 @@
-# Kaoyan English AI Review
+#English AI Review
 
 一个基于 AI API 的英语复习资料生成工具。项目由两个脚本整理而来：
 
