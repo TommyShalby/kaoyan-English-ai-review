@@ -1,6 +1,6 @@
 # Kaoyan English AI Review
 
-一个基于 Gemini API 的考研英语（二）复习资料生成工具。项目由两个脚本整理而来：
+一个基于 AI API 的英语复习资料生成工具。项目由两个脚本整理而来：
 
 - `generate_writing_report.py`：生成考研英语（二）作文模板报告。
 - `generate_2023_review.py`：生成 2023 考研英语（二）客观题全题复盘手册。
